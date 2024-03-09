@@ -11,4 +11,16 @@ Instalace je velmi jednoduchá pouze tehdy, kdy se instaluje na kompletně zákl
 3. Vzít složku account ze staženého souboru repozitáře a jednoduše ji vložit do složky resources.
 4. Zapnout server a užít si nový Login Panel
 
+# Hudba v Login Panelu
+Login Panel obsahuje hudbu mého výběru, ovšem je čistě na tobě, jakou zvolíš.
+
+Aktuální randomizace hudby:
+1. KALEO - Way Down We Go
+2. Calvin Harris - My Way
+3. Green Day - Holiday
+4. The Offspring - You're Gonna Go Far, Kid
+5. Confetti - Ghost
+6. Blur - Song 2
+7. Unlike Pluto - Everything Black (feat. Mike Taylor)
+
 # Video
