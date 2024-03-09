@@ -7,7 +7,7 @@ Login Panel je tvořen pomocí základního GUI MTA. Je ovšem možné provést 
 Instalace je velmi jednoduchá pouze tehdy, kdy se instaluje na kompletně základní neupravený account-systém nejnovějšího OwlGamingu.
 
 1. Stáhnout obsah této repozítáře.
-2. Otevřít následující složku na obsahu serveru: \mods\deathmatch\resources\
+2. Otevřít následující složku v obsahu serveru: \mods\deathmatch\resources\
 3. Vzít složku account ze staženého souboru repozitáře a jednoduše ji vložit do složky resources.
 4. Zapnout server a užít si nový Login Panel
 
