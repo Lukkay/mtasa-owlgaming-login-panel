@@ -1,7 +1,7 @@
 # OwlGaming Login Panel!
 Po dlouhém trápení se mi podařila utvořit veřejná verze nového Login Panelu pro OwlGaming, má motivace k tomuto výtvoru byla převážné tvořena ze serverů, kde lze nalézt pěkně hnusně udělané Login Panely, kde vlastně ani nelze vidět kam co kdo píše. 
 
-Login Panel je tvořen pomocí základní funkce MTA, GUI. Je ovšem možné provést úpravu na například DGS, stačí se vyznat. :)
+Login Panel je tvořen pomocí základního GUI MTA. Je ovšem možné provést úpravu na například DGS, stačí se vyznat. :)
 
 # Instalace
 Instalace je velmi jednoduchá pouze tehdy, kdy se instaluje na kompletně základní neupravený account-systém nejnovějšího OwlGamingu.
