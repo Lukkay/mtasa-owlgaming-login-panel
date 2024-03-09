@@ -23,4 +23,4 @@ Aktuální randomizace hudby:
 6. Blur - Song 2
 7. Unlike Pluto - Everything Black (feat. Mike Taylor)
 
-# Video
+# Videoukázka
