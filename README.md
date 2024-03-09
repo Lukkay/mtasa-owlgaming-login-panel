@@ -3,6 +3,8 @@ Po dlouhém trápení se mi podařila utvořit veřejná verze nového Login Pan
 
 Login Panel je tvořen pomocí základního GUI MTA. Je ovšem možné provést úpravu na například DGS, stačí se vyznat. :)
 
+Podpora a více: https://discord.gg/rdngUwKUqr
+
 # Instalace
 Instalace je velmi jednoduchá pouze tehdy, kdy se instaluje na kompletně základní neupravený account-systém nejnovějšího OwlGamingu.
 
