@@ -26,3 +26,4 @@ Aktuální randomizace hudby:
 7. Unlike Pluto - Everything Black (feat. Mike Taylor)
 
 # Videoukázka
+https://www.youtube.com/watch?v=6goAyQbgmx4
