@@ -67,19 +67,6 @@ function open_log_reg_pannel()
 
 
 		--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-		--[[
-		GUIEditor.button[1] = guiCreateButton(12, 291, 326, 49, "Registrovat se", false, mainWindow)
-        GUIEditor.edit[1] = guiCreateEdit(12, 48, 328, 49, "Lukk", false, mainWindow)
-        GUIEditor.button[2] = guiCreateButton(12, 232, 326, 49, "Přihlásit se", false, mainWindow)
-        GUIEditor.edit[2] = guiCreateEdit(10, 117, 328, 49, "Lukk", false, mainWindow)
-        guiEditSetMasked(GUIEditor.edit[2], true)
-        GUIEditor.label[1] = guiCreateLabel(13, 30, 325, 18, "Přihlašovací jméno:", false, mainWindow)
-        GUIEditor.label[2] = guiCreateLabel(13, 99, 163, 18, "Přihlašovací heslo:", false, mainWindow)
-        GUIEditor.checkbox[1] = guiCreateCheckBox(234, 99, 104, 18, "Zobrazit heslo?", false, false, mainWindow)
-        GUIEditor.checkbox[2] = guiCreateCheckBox(12, 166, 166, 15, "Pamatovat si mě na příště?", false, false, mainWindow)
-		]]--
-		
-		
 		loginButton = guiCreateButton( 10, 232, 328, 49, "Přihlásit se", false, mainWindow)
 		addEventHandler("onClientGUIClick", loginButton, onClickBtnLogin, false )
 
