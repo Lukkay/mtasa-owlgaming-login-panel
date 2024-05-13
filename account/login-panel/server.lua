@@ -193,7 +193,7 @@ function playerLogin(username,password,checksave)
 						setElementDataEx(client, "referrer", tonumber(accountData['referrer']), false, true)
 					end
 				
-					if exports.integration:isPlayerCommunityManager(client) then
+					if exports.integration:isPlayerHeadAdmin(client) then
 						setElementDataEx(client, "hiddenadmin", accountData_mta["hiddenadmin"], true)
 					else
 						setElementDataEx(client, "hiddenadmin", 0, true)
